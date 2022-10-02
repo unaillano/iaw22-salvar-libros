@@ -3,3 +3,7 @@ Para poder salvar los libros que tenemos en el centro, he pensado que en los pue
 De la misma manera la gente en la página web nos puede vender libros a cambio de una pequeña cantidad de dinero el cual lo conseguimos del alquiler que paga la gente por los libros. 
 Así nosotros tendremos la capacidad de poder poner nuevas máquinas en más pueblos y tratar de llegar al máximo de pueblos posibles.
 Para poder alquilar el libro la gente deberá de darse de alta en la página para que en el momento en el que alquila un libro tengamos sus datos por si se le pasa la fecha de entrega del libro o demás.
+
+
+En cuanto a los colores que voy a utilizar son el morado para el body de la web, y tanto para el header como para el footer he elegido un gris oscuro.
+Tambien en la pagina principal que tiene un fondo blanco he elegido poner las letras en gris mientras que en el resto de las paginas pondgo el texto en negro.
